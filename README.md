@@ -27,8 +27,8 @@ Here’s the algorithm in single-line points:
 ```
 /*
 Program to print the text “Implicitintent”.
-Developed by: THARSHAN R
-Registeration Number : 212223223004
+Developed by: Rajkiran J
+Registeration Number : 212222043006
 */
 ```
 
